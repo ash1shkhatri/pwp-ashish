@@ -1,2 +1,1 @@
-# pwp-milestone-1
-repo for pwp ms1 
+For my PWP project, I am creating a website to provide a friendly platform for people in Nepal who have epilepsy and intellectual disabilities. Through this platform, they will be able to connect with other individuals and meet in person. 
