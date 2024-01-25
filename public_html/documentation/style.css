@@ -1,0 +1,43 @@
+
+body, h1, h2, p, header, section, footer {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #7d7dc5;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+h1, h2 {
+    color: #d9cfd9;
+}
+
+section {
+    margin: 20px;
+}
+
+#persona {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #800080;
+    color: #fff;
+}
+
