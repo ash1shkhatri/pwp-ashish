@@ -1,2 +1,2 @@
 # pwp-milestone-1
-repo for pwp ms1 
+For my personal website project, I am building a website that provides information and awareness about the epileptic and intellectually disabled individuals in Nepal. Through this site the audience will be able to form connections and find resources that can improve their lifestyle. 
